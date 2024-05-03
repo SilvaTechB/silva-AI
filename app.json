@@ -44,6 +44,11 @@
       "required" :false,    
       "value": "false"
     },     
+    "GURL": {
+      "description": " If you Change Bot won't Respond",
+      "required" :false,    
+      "value": "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"
+    },     
     "READ_COMMAND": {
       "description": " Read bot cmds",
       "required" :false,    
