@@ -43,12 +43,7 @@
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
       "required" :false,    
       "value": "false"
-    },     
-    "GURL": {
-      "description": " If you Change Bot won't Respond",
-      "required" :false,    
-      "value": "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"
-    },     
+    },          
     "READ_COMMAND": {
       "description": " Read bot cmds",
       "required" :false,    
@@ -88,6 +83,11 @@
       "description": "Fill the value -true- if you want to see Messages in logs.",
       "required" :false,
       "value": "true"
+    },
+    "GURL": {
+      "description": " If you Change Bot won't Respond",
+      "required" :true,    
+      "value": "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"
     },
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
