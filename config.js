@@ -70,9 +70,9 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 
 
-global.devs = "254728782591,254762016957,254110853827,254728746852,255655147353" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "254728782591,254762016957,254110853827,254728746852,255655147353";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254728782591,254762016957,254110853827,254728746852,255655147353";
+global.devs = "254762016957,254110853827,254728746852,255655147353,254728782591" // Developer Contact
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "254762016957,254110853827,254728746852,255655147353,254728782591";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254762016957,254110853827,254728746852,255655147353,254728782591";
 
 
 
@@ -93,17 +93,17 @@ global.waPresence= process.env.WAPRESENCE ||  "available" ; // 'unavailable' | '
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "true"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254728782591,254762016957,254110853827,254728746852,255655147353";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254762016957,254110853827,254728746852,255655147353,254728782591";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "254xxxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254728782591,254762016957,254110853827,254728746852,255655147353";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254762016957,254110853827,254728746852,255655147353,254728782591";
 
 global.api_smd = "https://api-smd.onrender.com" 
-global.scan = "https://session.giftedtechnexus.co.ke";
+global.scan = "https://web.giftedtechnexus.co.ke";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  "" ; // PUT your SESSION_ID 
@@ -116,7 +116,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.2.5.1",
-  caption : process.env.CAPTION || "*©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@giftedtechnexus"),
+  caption : process.env.CAPTION || "*©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*Gifted-Md*\n youtube.com/@giftedtechnexus"),
  
   author : process.env.PACK_AUTHER|| "Gifted Tech",
   packname: process.env.PACK_NAME || "Gifted-Md♥️",
