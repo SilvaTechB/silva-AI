@@ -27,9 +27,9 @@
 
  
 
-FROM quay.io/mouricedevs/giftedmd
-RUN git clone https://github.com/mouricedevs/Gifted-Md /root/GiftedMd
-WORKDIR /root/GiftedMd/
+FROM quay.io/sampandey001/secktor
+RUN git clone https://github.com/mouricedevs/Gifted-Md /root/Gifted
+WORKDIR /root/Gifted/
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
