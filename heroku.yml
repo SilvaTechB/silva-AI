@@ -3,4 +3,4 @@
    docker:
        web: lib/Dockerfile
  run:
-   web: npm start
+   web: npm run gifted
