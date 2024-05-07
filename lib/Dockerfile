@@ -13,7 +13,7 @@ RUN git clone https://github.com/mouricedevs/Gifted-Md.git  /root/Gifted
 WORKDIR /root/Gifted/
 
 
-COPY package.json .
+COPY lib/package.json .
 RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
 
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["node", "index.js"]
+CMD ["node", "lib/version.js"]
