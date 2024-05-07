@@ -1158,19 +1158,6 @@ CMD ["npm","start"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # heroku.yml file data to run Container
 # build:
 #   docker:
