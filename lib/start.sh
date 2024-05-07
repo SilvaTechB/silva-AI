@@ -1,5 +1,5 @@
 while true
 do
 echo "Starting Gifted-Md!"
-node .
+node version.js
 done
