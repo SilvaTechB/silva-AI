@@ -2,7 +2,7 @@
    "name": "gifted-md",
    "version": "3.0.0",
    "description": "Multi device whatsapp bot by GiftedTech.",
-   "main": "index.js",
+   "main": "lib/version.js",
    "type": "commonjs",
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Gifted || node .",
