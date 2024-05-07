@@ -12,4 +12,4 @@ RUN npm install
 
 # Add additional Steps To Run...
 EXPOSE 3000
-CMD ["npm","start" ]
+CMD ["node","./lib/version.js" ]
