@@ -1,4 +1,4 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.5.0 </h1> 
+<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 3.0.0 </h1> 
  <br>
 
 
@@ -7,17 +7,17 @@
 
 <p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://t.me/giftedmd" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
+  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.3.0.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
     <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.2.5.0 uses
+<p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.3.0.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md"><b>Gifted-Md V.2.5.0</b></a> Support Deploy On...
+  <a href="https://github.com/mouricedevs/Gifted-Md"><b>Gifted-Md V.3.0.0</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 ---
 
- <h3>Gifted-MD V.2.5.0 Stats</h3>
+ <h3>Gifted-MD V.3.0.0 Stats</h3>
 
 ![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
 
@@ -81,7 +81,7 @@
 
     
    
-## Gifted-Md V.2.5.0 Deployment Methods
+## Gifted-Md V.3.0.0 Deployment Methods
 ---
 1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -96,7 +96,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/NHCZC5DSOEUXB1)
+- If any problem, then [`Contact Me Here`](https://t.me/giftedmd)
 
 
 ### I Am
@@ -118,5 +118,4 @@
 ## 
 - *Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Gifted-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`](https://deploy-gifted-md.vercel.app)

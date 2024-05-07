@@ -1,9 +1,5 @@
 while true
 do
 echo "Starting Gifted-Md!"
-node smd.js
+node version.js
 done
-
-     
-   
-     
