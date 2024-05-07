@@ -4,14 +4,14 @@
 
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/mouricedevs/gifted-new /root/Gifted
+RUN git clone https://github.com/mouricedevs/Gifted-Md /root/gifted
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/Gifted/node_modules
+RUN rm -rf /root/gifted/node_modules
 
 # Install dependencies
-WORKDIR /root/Gifted
+WORKDIR /root/gifted
 RUN npm install
 
 # Add additional Steps To Run...
