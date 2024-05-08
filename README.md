@@ -53,44 +53,30 @@
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/mouricedevs/Gifted-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254762016957&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=gifted-tech&env[KOYEB_NAME]=gifted-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://youtube.com/@giftedtechnexus"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/mouricedevs/Gifted-Md/issues">issue</a></p>
-
-
-
-## Some of Gifted-Md Bot Games:
----
-1. ***Connect Four Game(cfg).***
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game(ngg).***
-4.  ***Word chain Game(wcg).***
-5.  ***Hidden Card Game(hcg).***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game(cgg).***
-8.  ***Capital of City Finding(ccf).***
-##
 
 ---
 
  <h3>Gifted-MD V.3.0.0 Stats</h3>
 
-![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
-
-
+![Giftd-mdV3 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
 
 
     
    
 ## Gifted-Md V.3.0.0 Deployment Methods
 ---
-1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
-2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
-3. ***Deploy on [`HEROKU`](https://deploy-gifted-md.vercel.app/)***
-4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`Replit`](https://replit.com/github.com/mouricedevs/Gifted-Md)***
-6.  ***Deploy on [`Railway`](https://railway.app/template/89ED3x?referralCode=WiTucG)***
-7.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/mouricedevs/Gifted-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254762016957&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=true&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=suhail-md&env[KOYEB_NAME]=gifted-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg)***
+1.  **Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://session.giftedtechnexus.co.ke/pair) OR BY [`SCANNING QR CODE1`](https://session.giftedtechnexus.co.ke/qr) OR BY [`SCANNING QR CODE2`](https://session.giftedtechnexus.co.ke/qr2)** 
+3. **Deploy on [`HEROKU`](https://deploy-gifted-md.vercel.app/)**
+4.  **Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)**
+5.  **Deploy on [`Replit`](https://replit.com/github.com/mouricedevs/Gifted-Md)**
+6.  **Deploy on [`Railway`](https://railway.app/template/89ED3x?referralCode=WiTucG) You only need your session ID for railway deployment**
+7.  **Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/mouricedevs/Gifted-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254762016957&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=true&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=suhail-md&env[KOYEB_NAME]=gifted-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg)**
+8. **You can visit Bot Web [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke) for more**
+9. **All Tutorials Available [`HERE`](https://youtube.com/@giftedtechnexus)**
 
 ##
 ---
