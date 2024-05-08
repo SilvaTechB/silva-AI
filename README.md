@@ -3,7 +3,8 @@
 
 
 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v3.0.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v3.0.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p> <br>
+<p align="center"> Strictly Fork the repo first without modifying the name then proceed with your GitHub username. Direct link deployment will make heroku ban your account and I'm not liable for that.</p>
 
 <p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
