@@ -33,6 +33,11 @@
         "required": false,
         "value": "Africa/Nairobi"
       },
+        "SUDO": {
+        "description": "Numbers you wish to be second bot owners",
+        "required": false,
+        "value": "null"
+      },
       "READ_COMMAND": {
         "description": " Read bot cmds",
         "required": false,
