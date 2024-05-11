@@ -106,3 +106,8 @@
 - *Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - [`Deploy on Heroku`](https://web.giftedtechnexus.co.ke/deploy/platforms/heroku.html)
+
+
+- ### YOU MUST NOT USE  MY SCRIPT IN ANY OF YOUR PROJECTS WITHOUT MY PERMISSION
+- I'll take vigorous Action.
+- Need Assistance, [CONTACT ME](https://wa.me/254762016957)
