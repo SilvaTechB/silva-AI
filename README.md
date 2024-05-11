@@ -110,4 +110,4 @@
 
 - ### YOU MUST NOT USE  MY SCRIPT IN ANY OF YOUR PROJECTS WITHOUT MY PERMISSION
 - I'll take vigorous Action.
-- Need Assistance, [CONTACT ME](https://wa.me/254762016957)
+- Need Assistance, [CONTACT ME](https://t.me/giftedmd)
