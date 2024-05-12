@@ -33,12 +33,12 @@
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "Only Group Admin can use this Command.",
-            "botAdmin": "Make Me an Admin First.",
-            "owner": "Commnd is for my owner Only.",
-            "group": "Commnd is for group Only.",
-            "private": "Command is for my Owner Only.",
-            "bot": "Command is for my Owner Only.",
+            "admin": "Only Group Admin or Gifted-Md Owner can use this Command.",
+            "botAdmin": "Please Make Gifted-Md an Admin First.",
+            "owner": "This Commnd is for Gifted-Md Owner Only.",
+            "group": "This Commnd is for Groups Only.",
+            "private": "This Command is for Gifted-Md Owner Only.",
+            "bot": "This Command is for Gifted-Md Owner Only.",
             "wait": "Gifted-Md is Processing..."
         },
         "error": {
