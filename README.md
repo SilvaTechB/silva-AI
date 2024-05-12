@@ -2,8 +2,6 @@
  <br>
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.3.0.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
-  </a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{mouricedevs}/count.svg" alt="ɢɪғᴛᴇᴅ ᴍᴅ :: Visitor's Count" /></p>
