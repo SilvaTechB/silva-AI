@@ -10,9 +10,6 @@
 
 ---
 
-
-
-
 <p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.3.0.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
