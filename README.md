@@ -1,22 +1,5 @@
 <h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 3.0.0 </h1> 
  <br>
-
-
-
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v3.0.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p> <br>
-<p align="center"> Strictly Fork the repo first without modifying the name then proceed with your GitHub username. Direct link deployment will make heroku ban your account and I'm not liable for that.</p>
-
-<p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg">
-  </a>
-</p>
-    
-   
-   
-<p align="center">
-  <a href="https://t.me/giftedmd" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.3.0.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
     <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
