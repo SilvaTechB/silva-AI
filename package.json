@@ -9,8 +9,8 @@
       "asta": "pm2 start . --deep-monitoring --attach --name Silva || node .",
       "start": "pm2 start . --attach --name Silva",
       "stop": "pm2 stop Silva",
-      "heroku-postbuild": "git clone https://github.com/SilvaTechB/SilvaGifted.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/SilvaTechB/SilvaGifted.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "heroku-postbuild": "git clone https://github.com/SilvaTechB/silva-AI.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/SilvaTechB/silva-AI.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "Silva Tech",
@@ -75,12 +75,12 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/SilvaTechB/SilvaGifted.git"
+      "url": "git+https://github.com/SilvaTechB/silva-AI.git"
    },
    "bugs": {
-      "url": "https://github.com/SilvaTechB/SilvaGifted/issues"
+      "url": "https://github.com/SilvaTechB/silva-AI/issues"
    },
-   "homepage": "https://github.com/SilvaTechB/SilvaGifted#readme"
+   "homepage": "https://github.com/SilvaTechB/silva-AI#readme"
 }
 
 
